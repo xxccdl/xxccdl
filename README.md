@@ -21,7 +21,7 @@
 
 欢迎通过邮箱或电话联系我，交流编程、项目或学习经验！
 
-**# Hello, I'm xxccdl 👋**
+# Hello, I'm xxccdl 👋
 
 Hi everyone, my name is xxccdl. I'm 13 years old and a middle school student.
 
