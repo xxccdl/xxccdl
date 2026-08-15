@@ -20,3 +20,26 @@
   - 电话：+86 13236654320
 
 欢迎通过邮箱或电话联系我，交流编程、项目或学习经验！
+
+**# Hello, I'm xxccdl 👋**
+
+Hi everyone, my name is xxccdl. I'm 13 years old and a middle school student.
+
+- **Interests & Skills**
+  - Passionate about vibecoding and various programming practices.
+  - Proficient and enthusiastic in using: VBS, Batch, JavaScript, and TypeScript.
+
+- **Experience**
+  - 5 years of hands‑on computer experience:
+    - 2 years of learning and practice in cybersecurity.
+    - 3 years of experience in low‑code / visual programming.
+
+- **Learning & Projects**
+  - Currently studying at school, while continuously self‑learning programming and computer science. I enjoy building small projects and automation scripts.
+  - Feel free to check out my repositories for project samples.
+
+- **Contact**
+  - Email: 13236654320@163.com or 6541171@qq.com
+  - Phone: +86 13236654320
+
+You're welcome to reach me via email or phone to discuss programming, projects, or learning experiences!
