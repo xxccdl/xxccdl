@@ -1,16 +1,26 @@
-## Hi there 👋
+# 你好，我是 xxccdl 👋
 
-<!--
-**xxccdl/xxccdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大家好，我叫 xxccdl，13 岁，在校初中生。
 
-Here are some ideas to get you started:
+- 爱好与技能
+  - 热爱 vibecoding（氛围编程）以及各种编程实践。
+  - 熟悉并热衷使用：VBS、批处理（Batch）、JavaScript、TypeScript。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 经验
+  - 拥有 5 年电脑使用与实践经验：
+    - 2 年网络安全相关学习与实践经验。
+    - 3 年低代码/可视化编程经验。
+
+- 学习与项目
+  - 目前在校学习中，持续扩展编程与计算机知识，喜欢动手做小项目与自动化脚本。
+  - 欢迎查看我的仓库中的项目样例（如果需要我可以把代表性项目添加到此处）。
+
+- 联系方式
+  - 邮箱：13236654320@163.com 或 6541171@qq.com
+  - 电话：+86 13236654320
+
+欢迎通过邮箱或电话联系我，交流编程、项目或学习经验！
+
+---
+
+如果你希望我将这份自我介绍翻译为英文、添加作品集链接、或把内容格式化为头像 + 统计徽章等风格，也可以告诉我具体需求，我会继续更新。
