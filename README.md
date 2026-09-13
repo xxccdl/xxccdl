@@ -1,6 +1,7 @@
 # hello，我是 xxccdl 👋
 
 大家好，我叫 xxccdl，一名在校初中生。
+**个人网站**：https://xxccdl.cn
 
 - 爱好与技能
   - 喜欢用 vibecoding（氛围编程）制作各种软件以及各种编程实践。
